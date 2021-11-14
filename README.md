@@ -6,5 +6,5 @@
  <li>In Nurse.java we have created a new variable number of patients and also inherited all the vairables from the parent class HospitalEmployee, implemented a constructor and override the toString() methof which return the value name, the emloyee id and the number of patiet the nurse have.</li>
  <li>In Doctor.java we have created a new variable speciality and also inherited all the vairables from the parent class HospitalEmployee, implemented a constructor and override the toString() methof which return the value name, the emloyee id and the speciality of the doctor.</li>
  <li>In Surgeon.java we have created a new variable operating and also inherited all the vairables from the parent class Doctor, implemented a constructor and override the toString() methof which return the value name, the emloyee id and whether the doctor is operating or not.</li>
- We have to run a super class Hospital.java which created several objects drevid from HospitalEMployee
- Then Override the work() method in the Nurse,Doctor and Surgeon class to print a different output and then run the Hospital.java class again to see the final output
+ <li>We have to run a super class Hospital.java which created several objects drevid from HospitalEMployee</li>
+ <li>Then Override the work() method in the Nurse,Doctor and Surgeon class to print a different output and then run the Hospital.java class again to see the final output</li>
